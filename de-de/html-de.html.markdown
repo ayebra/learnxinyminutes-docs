@@ -9,11 +9,8 @@ lang: de-de
 ---
 
 HTML significa HyperText Markup Language (lenguaje de marcado de hipertexto).
-Es un lenguaje para escribir las páginas de la World Wide Web ..
-Es un Auszeichnugssprache que nos permite escribir páginas web con código que características tales como texto y datos a visualizar. En realidad, los archivos HTML son archivos de texto sin formato.
-¿Cuáles son los premios? Es un método para organizar los datos del sitio mediante el uso de etiquetas de inicio y fin.
-Este premio está destinado a dar el significado del texto, al que rodea.
-Al igual que muchos otros lenguajes de programación también, HTML tiene muchas versiones. Estamos hablando de HTML5.
+Es un lenguaje para escribir las páginas de la World Wide Web..
+Es un Auszeichnugssprache que nos permite escribir páginas web con código que características tales como texto y datos a visualizar. En realidad, los archivos HTML son archivos de texto sin formato. ¿Cuáles son los premios? Es un método para organizar los datos del sitio mediante el uso de etiquetas de inicio y fin. Este premio está destinado a dar el significado del texto, al que rodea.Al igual que muchos otros lenguajes de programación también, HTML tiene muchas versiones. Estamos hablando de HTML5.
 
 **NOTE :**  Puede ver las diferentes etiquetas y elementos a prueba durante los tutoriales en sitios como [codepen] (http://codepen.io/pen/) para ver sus efectos y cómo funcionan. También se puede hacer más familiarizados con el lenguaje que con ella.
 En este artículo se cuida de dar solamente la sintaxis HTML y consejos útiles.
