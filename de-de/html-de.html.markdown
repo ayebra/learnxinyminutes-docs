@@ -23,10 +23,9 @@ Es un Auszeichnugssprache que nos permite escribir páginas web con código que 
 <! DOCTYPE html>
 <Html>
 <Head>
-<Title> Mi sitio </ title>
+<Title><h2> Mi sitio </h2></ title>
 </ Head>
-<Body>
-<H1> Hello World! </ H1>
+<Body> <H1> Hello World! </ H1>
 <a "http://codepen.io/anon/pen/xwjLbZ"> Vamos a ver lo que se muestra aquí </a>
 <P> Este es un párrafo. </ P>
 <P> Este es otro párrafo. </ P>
