@@ -1,4 +1,4 @@
-﻿---
+﻿-------------
 language: html
 contributors:
     - ["Christophe THOMAS", "https://github.com/WinChris"]
@@ -6,7 +6,7 @@ translators:
     - ["Dennis Keller", "https://github.com/denniskeller"]
 filename: learnhtml-de.html
 lang: de-de
----
+-------------
 
 HTML significa HyperText Markup Language (lenguaje de marcado de hipertexto).
 Es un lenguaje para escribir las páginas de la World Wide Web..
@@ -101,7 +101,6 @@ Es un Auszeichnugssprache que nos permite escribir páginas web con código que 
 </ Table>
 
 `` `
-
 ## uso
 
 Los archivos HTML terminan con `.html`.
