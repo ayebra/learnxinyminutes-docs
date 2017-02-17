@@ -113,3 +113,7 @@ Los archivos HTML terminan con `.html`.
 * [htmlkit] (EN)]] (http://www.htmlkit.com/)
 * [html] (ES) (EN)] (http://html.com/)
 * [html] (ES) (es.html.net/tutorials/) 
+------------
+## Para Ejercer la mente practicando
+
+* [codecademy] (EN)] (https://www.codecademy.com/learn/web)
