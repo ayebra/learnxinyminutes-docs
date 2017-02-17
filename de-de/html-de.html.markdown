@@ -111,4 +111,5 @@ Los archivos HTML terminan con `.html`.
 * [Tutorial HTML (ES)] (https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3school (EN)] (http://www.w3schools.com/html/html_intro.asp)
 * [htmlkit] (EN)]] (http://www.htmlkit.com/)
-* [html] (ES (EN] (http://html.com/)
+* [html] (ES) (EN)] (http://html.com/)
+* [html] (ES) (es.html.net/tutorials/) 
