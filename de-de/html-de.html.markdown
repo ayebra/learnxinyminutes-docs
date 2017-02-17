@@ -77,9 +77,9 @@ En este artículo se cuida de dar solamente la sintaxis HTML y consejos útiles.
 </ Ul>
 </ Body>
 
-<! - Y eso fue todo. Un archivo HTML puede ser tan simple. ->
+<! - Un archivo HTML puede ser tan simple. ->
 
-<! - Pero es posible añadir muchos más etiquetas HTML adicionales. ->
+<! - Es posible añadir muchos más etiquetas HTML adicionales. ->
 
 <- Para añadir una imagen !. ->
 <Img src = "http://i.imgur.com/XWG0O.gif" /> <! - La fuente de la imagen mostrada por el atributo src = "" ->
