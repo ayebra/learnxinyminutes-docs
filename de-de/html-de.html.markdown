@@ -14,7 +14,7 @@ Es un Auszeichnugssprache que nos permite escribir páginas web con código que 
 
 **NOTE :**  Puede ver las diferentes etiquetas y elementos a prueba durante los tutoriales en sitios como [codepen] (http://codepen.io/pen/) para ver sus efectos y cómo funcionan. También se puede hacer más familiarizados con el lenguaje que con ella. En este artículo se cuida de dar solamente la sintaxis HTML y consejos útiles.
 `` `HTML
-<! - son comentarios escritos en esta línea ->
+<! -- son comentarios escritos en esta línea -->
 
 <! - #################### #################### en las etiquetas ->
 
